@@ -33,8 +33,18 @@ I'm always up for tech conversations and building cool things together.
 
 🌐 Socials:  
 
--github-->https://github.com/Nish-15-teja
-- LinkedIn--> https://www.linkedin.com/in/nishvika-teja-reddy/ 
+## 🌐 Connect with Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/nishvika-teja-reddy/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>
+  </a>
+  
+  <a href="https://github.com/Nish-15-teja" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+  </a>
+</p>
+
 
 
 ---
