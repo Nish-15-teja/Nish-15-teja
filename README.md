@@ -32,7 +32,7 @@ If you're working on something interesting or want to collaborate on a project, 
 I'm always up for tech conversations and building cool things together.
 
 🌐 Socials:  
-(you can add links here)
+
 -github-->https://github.com/Nish-15-teja
 - LinkedIn--> https://www.linkedin.com/in/nishvika-teja-reddy/ 
 
