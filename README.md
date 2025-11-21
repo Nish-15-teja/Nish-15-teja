@@ -1,4 +1,5 @@
-👋 About Me 
+👋 About Me
+
 Hey there! I'm **Nishvika Teja**, a passionate developer and AI/ML enthusiast who loves building smart, impactful systems.  
 I enjoy exploring the intersection of **Software Engineering + AI**, and I'm currently growing my skills in Java, DSA, ML, and full-stack development.
 
@@ -40,9 +41,7 @@ I'm always up for tech conversations and building cool things together.
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>
   </a>
   
-  <a href="https://github.com/Nish-15-teja" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
-  </a>
+
 </p>
 
 
