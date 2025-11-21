@@ -1,4 +1,5 @@
-👋 About Me  
+👋 About Me 
+[![GitHub Follow](https://img.shields.io/github/followers/Nish-15-teja?label=Follow&style=social)](https://github.com/Nish-15-teja)
 Hey there! I'm **Nishvika Teja**, a passionate developer and AI/ML enthusiast who loves building smart, impactful systems.  
 I enjoy exploring the intersection of **Software Engineering + AI**, and I'm currently growing my skills in Java, DSA, ML, and full-stack development.
 
